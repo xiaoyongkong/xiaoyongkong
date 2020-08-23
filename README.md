@@ -76,6 +76,8 @@ I have had the opportunity to work as a software/web developer, architect, analy
 ![Windows](https://img.shields.io/badge/-Windows-000?style=flat&logo=windows)
 ![Wix](https://img.shields.io/badge/-Wix-ffdd19?style=flat&logoColor=white&logo=wix)
 ![Wordpress](https://img.shields.io/badge/-Wordpress-ffdd19?style=flat&logoColor=white&logo=wordpress)
+
 ---
 
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1218762202&cover_image=true)](https://spotify-github-profile.vercel.app/api/view?uid=1218762202&redirect=true)
