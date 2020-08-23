@@ -35,7 +35,7 @@ I have had the opportunity to work as a software/web developer, architect, analy
 
 ![C](https://img.shields.io/badge/-C-brown?style=flat&logoColor=white&logo=c)
 ![C#](https://img.shields.io/badge/-Csharp-darkgreen?style=flat&logoColor=white&logo=c+sharp)
-![C++](https://img.shields.io/badge/-C++-darkgreen?style=flat&logoColor=white&logo=c%2B%2B)
+![C++](https://img.shields.io/badge/-C++-brown?style=flat&logoColor=white&logo=c%2B%2B)
 ![CSS](https://img.shields.io/badge/-CSS-196eff?style=flat&logoColor=white&logo=css3)
 ![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-8993c1?style=flat&logoColor=white&logo=codeigniter)
 
@@ -43,11 +43,13 @@ I have had the opportunity to work as a software/web developer, architect, analy
 ![Django](https://img.shields.io/badge/-Django-0077B5?style=flat&logoColor=white&logo=django)
 ![Docker](https://img.shields.io/badge/-Docker-196eff?style=flat&logoColor=white&logo=docker)
 
+![Grails](https://img.shields.io/badge/-Grails-yellow?style=flat&logoColor=white&logo=grails)
+
 ![HTML](https://img.shields.io/badge/-HTML-ff0d00?style=flat&logoColor=white&logo=html5) 
 
 ![Java](https://img.shields.io/badge/-Java-purple?style=flat&logoColor=white&logo=java)
 ![JavaFx](https://img.shields.io/badge/-JavaFx-purple?style=flat&logoColor=white&logo=java)
-![JavaScript](https://img.shields.io/badge/-JavaScript-ffdd19?style=flat&logoColor=white&logo=javascript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-darkgreen?style=flat&logoColor=white&logo=javascript)
 ![Joomla](https://img.shields.io/badge/-Joomla-ffdd19?style=flat&logoColor=white&logo=joomla)
 
 ![Linux](https://img.shields.io/badge/-Linux-000?style=flat&logo=linux)
@@ -63,6 +65,8 @@ I have had the opportunity to work as a software/web developer, architect, analy
 ![React](https://img.shields.io/badge/-React-darkgreen?style=flat&logoColor=white&logo=react)
 ![React-Native](https://img.shields.io/badge/-React_Native-19a7ff?style=flat&logoColor=white&logo=react)
 ![Ruby](https://img.shields.io/badge/-Ruby-red?style=flat&logoColor=white&logo=ruby)
+![Ruby On Rails](https://img.shields.io/badge/-Ruby_On_Rails-red?style=flat&logoColor=white&logo=ruby+on+rails)
+
 
 ![ShellScript](https://img.shields.io/badge/-ShellScript-000?style=flat&logo=shellscript)
 
