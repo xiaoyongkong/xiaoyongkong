@@ -38,6 +38,7 @@ I have had the opportunity to work as a software/web developer, architect, analy
 ![C++](https://img.shields.io/badge/-C++-brown?style=flat&logoColor=white&logo=c%2B%2B)
 ![CSS](https://img.shields.io/badge/-CSS-196eff?style=flat&logoColor=white&logo=css3)
 ![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-8993c1?style=flat&logoColor=white&logo=codeigniter)
+![CoffeeScript](https://img.shields.io/badge/-CoffeeScript-darkgreen?style=flat&logoColor=white&logo=coffeescript)
 
 ![Digital Ocean](https://img.shields.io/badge/-Digital_Ocean-green?style=flat&logoColor=digitalocean&logo=digitalocean)
 ![Django](https://img.shields.io/badge/-Django-0077B5?style=flat&logoColor=white&logo=django)
