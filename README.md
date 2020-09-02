@@ -16,8 +16,8 @@ I have had the opportunity to work as a software/web developer, architect, analy
 <center>
 <table>
   <tr>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=xiaoyongkong&theme=dracula" /></td>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoyongkong&hide=html&layout=compact&theme=dracula" /></td>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=xiaoyongkong&theme=tokyonight&show_icons=true" /></td>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoyongkong&layout=compact&theme=radical&hide=html" /></td>
   </tr>  
 </table>
 </center>
