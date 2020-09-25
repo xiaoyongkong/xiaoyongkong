@@ -2,7 +2,7 @@
 
 My name is Xiao <br/>
 Born and Raised in Brazil <br/>
-🎓 &nbsp; Graduating in Computer Science At [UFRJ](https://ufrj.br/). <br/>
+🎓 &nbsp; Bachelor student in Computer Science At [UFRJ](https://ufrj.br/). <br/>
 
 I have had the opportunity to work as a software/web developer, architect, analyst and Infosec. I am used to making decisions under pressure and dealing with conflicts in the team, in the company and with customers, as well communicating with the team to have a better organization.
 
