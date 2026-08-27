@@ -1,83 +1,71 @@
-# Hi there 👋 let me introduce myself
+# Hi, I'm Xiao 👋
 
-My name is Xiao <br/>
-Born and Raised in Brazil <br/>
-🎓 &nbsp; Bachelor in Computer Science At [UFRJ](https://ufrj.br/). <br/>
+**Software Engineer | Backend & DevOps | Cloud-Native Systems | Distributed Architecture**
 
-I have had the opportunity to work as a software/web developer, architect, analyst and Infosec. I am used to making decisions under pressure and dealing with conflicts in the team, in the company and with customers, as well communicating with the team to have a better organization.
+🇧🇷 Born and raised in Brazil
+🎓 B.Sc. in Computer Science — [UFRJ](https://ufrj.br/)
 
-![](https://komarev.com/ghpvc/?username=xiaoyongkong&color=blue)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/xiao-yong-kong-680632127/)](https://www.linkedin.com/in/xiao-yong-kong-680632127/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c5392a?style=flat&logo=Gmail&logoColor=white&link=mailto:xiaoykong06@gmail.com)](mailto:xiaoykong06@gmail.com) 
+I'm a Software Engineer with experience building and evolving **backend services, distributed systems, cloud infrastructure, and modern web applications**.
 
----
+Throughout my career, I've worked across different roles and environments — from hands-on software development to architecture and technical leadership — designing systems from scratch, modernizing legacy applications, and making technical decisions in complex production environments.
 
+My current focus is on **Backend Engineering, DevOps, Cloud Architecture, and Distributed Systems**, while maintaining strong experience with modern frontend development.
 
-### 📊 My Stats:
-<center>
-<table>
-  <tr>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=xiaoyongkong&theme=tokyonight&show_icons=true" /></td>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoyongkong&layout=compact&theme=radical&hide=html" /></td>
-  </tr>  
-</table>
-</center>
+### ⚙️ Core Stack
 
+**Backend**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat\&logo=django\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat\&logo=node.js\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat\&logo=typescript\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat\&logo=openjdk\&logoColor=white)
+![Ruby on Rails](https://img.shields.io/badge/Rails-CC0000?style=flat\&logo=rubyonrails\&logoColor=white)
 
----
+**Frontend**
+![React](https://img.shields.io/badge/React-20232A?style=flat\&logo=react\&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat\&logo=next.js\&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat\&logo=angular\&logoColor=white)
 
-### 💻 &nbsp; My skills: <br/> <br/> 
-![Angular](https://img.shields.io/badge/-Angular-ff0d00?style=flat&logoColor=white&logo=angular)
-![Apache_Maven](https://img.shields.io/badge/-Apache_Maven-yellow?style=flat&logoColor=white&logo=apache+maven)
-![AWS](https://img.shields.io/badge/-AWS%20S3-green?style=flat&logoColor=amazon&logo=amazon)
+**Cloud & DevOps**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat\&logo=amazonwebservices\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat\&logo=docker\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat\&logo=linux\&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat\&logo=githubactions\&logoColor=white)
 
-![Bitrix24](https://img.shields.io/badge/-Bitrix24-orange?style=flat&logoColor=white&logo=bitrix24)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-ff0d00?style=flat&logoColor=white&logo=bootstrap)
+**Databases & Messaging**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat\&logo=postgresql\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat\&logo=mysql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat\&logo=mongodb\&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat\&logo=redis\&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat\&logo=rabbitmq\&logoColor=white)
 
-![C](https://img.shields.io/badge/-C-brown?style=flat&logoColor=white&logo=c)
-![C#](https://img.shields.io/badge/-Csharp-darkgreen?style=flat&logoColor=white&logo=c+sharp)
-![C++](https://img.shields.io/badge/-C++-brown?style=flat&logoColor=white&logo=c%2B%2B)
-![CSS](https://img.shields.io/badge/-CSS-196eff?style=flat&logoColor=white&logo=css3)
-![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-8993c1?style=flat&logoColor=white&logo=codeigniter)
-![CoffeeScript](https://img.shields.io/badge/-CoffeeScript-darkgreen?style=flat&logoColor=white&logo=coffeescript)
+### 🏗️ What I Work With
 
-![Digital Ocean](https://img.shields.io/badge/-Digital_Ocean-green?style=flat&logoColor=digitalocean&logo=digitalocean)
-![Django](https://img.shields.io/badge/-Django-0077B5?style=flat&logoColor=white&logo=django)
-![Docker](https://img.shields.io/badge/-Docker-196eff?style=flat&logoColor=white&logo=docker)
-
-![Grails](https://img.shields.io/badge/-Grails-yellow?style=flat&logoColor=white&logo=grails)
-
-![HTML](https://img.shields.io/badge/-HTML-ff0d00?style=flat&logoColor=white&logo=html5) 
-
-![Java](https://img.shields.io/badge/-Java-purple?style=flat&logoColor=white&logo=java)
-![JavaFx](https://img.shields.io/badge/-JavaFx-purple?style=flat&logoColor=white&logo=java)
-![JavaScript](https://img.shields.io/badge/-JavaScript-darkgreen?style=flat&logoColor=white&logo=javascript)
-![Joomla](https://img.shields.io/badge/-Joomla-ffdd19?style=flat&logoColor=white&logo=joomla)
-
-![Linux](https://img.shields.io/badge/-Linux-000?style=flat&logo=linux)
-
-![PHP](https://img.shields.io/badge/-PHP-8993c1?style=flat&logoColor=white&logo=php)
-![PostgreSQL](https://img.shields.io/badge/-Postgresql-orange?style=flat&logoColor=white&logo=postgresql)
-![Python](https://img.shields.io/badge/-Python-0077B5?style=flat&logoColor=white&logo=python)
-
-![MariaDB](https://img.shields.io/badge/-MariaDB-orange?style=flat&logoColor=white&logo=mariadb)
-![MySQL](https://img.shields.io/badge/-Mysql-orange?style=flat&logoColor=white&logo=mysql)
-![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft_SQL_Server-orange?style=flat&logoColor=white&logo=microsoft+sql+server)
-
-![React](https://img.shields.io/badge/-React-darkgreen?style=flat&logoColor=white&logo=react)
-![React-Native](https://img.shields.io/badge/-React_Native-19a7ff?style=flat&logoColor=white&logo=react)
-![Ruby](https://img.shields.io/badge/-Ruby-red?style=flat&logoColor=white&logo=ruby)
-![Ruby On Rails](https://img.shields.io/badge/-Ruby_On_Rails-red?style=flat&logoColor=white&logo=ruby+on+rails)
-
-
-![ShellScript](https://img.shields.io/badge/-ShellScript-000?style=flat&logo=shellscript)
-
-![Xamarin](https://img.shields.io/badge/-Xamarin-19a7ff?style=flat&logoColor=white&logo=xamarin)
-
-![Windows](https://img.shields.io/badge/-Windows-000?style=flat&logo=windows)
-![Wix](https://img.shields.io/badge/-Wix-ffdd19?style=flat&logoColor=white&logo=wix)
-![Wordpress](https://img.shields.io/badge/-Wordpress-ffdd19?style=flat&logoColor=white&logo=wordpress)
+* Backend architecture and API development
+* Distributed systems and asynchronous processing
+* AWS cloud infrastructure and serverless applications
+* CI/CD and deployment automation
+* Dockerized environments and Linux
+* REST and gRPC services
+* Relational and NoSQL databases
+* Modern React / Next.js applications
+* Legacy system modernization
+* AI/LLM integrations and automation
 
 ---
 
+### 📊 GitHub Stats
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1218762202&cover_image=true)](https://spotify-github-profile.vercel.app/api/view?uid=1218762202&redirect=true)
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=xiaoyongkong&theme=tokyonight&show_icons=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoyongkong&layout=compact&theme=tokyonight&hide=html" />
+</p>
+
+---
+
+### 🤝 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/xiao-yong-kong-680632127/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat\&logo=gmail\&logoColor=white)](mailto:xiaoykong06@gmail.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=xiaoyongkong\&color=blue)
